@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Joe. I am a web developer with a passion for software and application development.
+Hi! My name is Joe. I am a software engineer with a passion for software and application development.
 
 
 ## Socials:
